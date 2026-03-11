@@ -1,0 +1,14 @@
+INFO 2026-03-04 15:25:16,283 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 15:25:38,526 log "GET / HTTP/1.1" 200 12068
+INFO 2026-03-04 15:25:39,258 log "GET / HTTP/1.1" 200 12068
+INFO 2026-03-04 15:25:39,434 log "GET / HTTP/1.1" 200 12068
+INFO 2026-03-04 15:25:39,642 log "GET / HTTP/1.1" 200 12068
+INFO 2026-03-04 15:57:49,824 autoreload C:\Users\user\my_project\mysite\settings.py changed, reloading.
+INFO 2026-03-04 15:57:50,219 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 16:01:26,721 autoreload C:\Users\user\my_project\mysite\urls.py changed, reloading.
+INFO 2026-03-04 16:01:27,116 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 16:01:35,579 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 16:04:03,936 autoreload C:\Users\user\my_project\mysite\urls.py changed, reloading.
+INFO 2026-03-04 16:04:04,289 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 16:04:11,487 autoreload Watching for file changes with StatReloader
+INFO 2026-03-04 16:04:36,355 log "GET /myhello/ HTTP/1.1" 200 12
